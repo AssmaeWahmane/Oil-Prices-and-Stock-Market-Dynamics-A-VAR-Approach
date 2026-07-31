@@ -1,1 +1,6 @@
+## Python Analysis
+
+The `python/` folder contains the complete econometric analysis conducted using Python. It includes data preparation, descriptive statistics, stationarity tests, optimal lag selection, Granger causality tests, VAR model estimation, diagnostic tests, impulse response functions, forecast error variance decomposition, and forecasting.
+
+The notebook focuses primarily on the implementation of the econometric methodology and the presentation of the main statistical results. The detailed economic discussion is outside the scope of this repository.
 
