@@ -17,3 +17,13 @@ The study seeks to answer the following research questions:
 * **H0:** Changes in crude oil prices (**WTISPLC**) have a statistically significant impact on U.S. stock market performance (**S&P 500**).
 * **H1:** Exchange rate volatility has a statistically significant effect on the performance of the U.S. stock market (**S&P 500**).
 * **H2:** The **S&P 500** is significantly influenced by its own past values, indicating persistence in stock market returns.
+#### **3) Steps in VAR Modeling**
+
+* Descriptive analysis of the variables
+* Stationarity analysis of the variables
+* Selection of the optimal lag order
+* Cointegration analysis (Optional)
+* Granger causality analysis
+* VAR model estimation and diagnostic validation
+* Analysis of VAR dynamics (Impulse Response Functions and Forecast Error Variance Decomposition)
+* Forecasting (Optional)
