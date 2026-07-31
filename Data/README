@@ -1,0 +1,11 @@
+### **Dataset**
+
+The data used in this study were obtained from the **Federal Reserve Economic Data (FRED)** database.
+
+The **West Texas Intermediate (WTI)** crude oil price is used as a proxy for oil prices. It is measured in **U.S. dollars per barrel (USD/barrel)** and is available at a **monthly frequency**. These data are published by the **U.S. Energy Information Administration (EIA)**.
+
+The **S&P 500 Index** is used as a proxy for the U.S. stock market. It is measured as an **index** and is also available at a **monthly frequency**. These data are provided by **S&P Dow Jones Indices LLC**.
+
+The study covers the period from **January 2014 to October 2023**, using monthly observations.
+
+The **exchange rate (ER)** series was obtained from the **Bank of France** database.
